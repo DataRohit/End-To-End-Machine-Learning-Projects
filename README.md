@@ -4,7 +4,7 @@
 
 ---
 
-### Iris Flower Classification [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flower-classification-rvi.herokuapp.com/)
+### Iris Flower Classification [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datarohit/iris-web-app/app.py)
 
 ### Movie Recommender [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommender-rvi.herokuapp.com/)
 
