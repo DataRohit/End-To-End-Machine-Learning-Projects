@@ -6,4 +6,4 @@
 
 ## Iris Flower Classification WebApp
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flower-classification-rvi.herokuapp.com/)
+Open Iris Flower Classification [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flower-classification-rvi.herokuapp.com/)
