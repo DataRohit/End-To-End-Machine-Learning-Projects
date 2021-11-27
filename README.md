@@ -4,4 +4,10 @@
 
 ---
 
-## Iris Flower Classification WebApp [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flower-classification-rvi.herokuapp.com/)
+### Iris Flower Classification [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iris-flower-classification-rvi.herokuapp.com/)
+
+### Movie Recommender [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommender-rvi.herokuapp.com/)
+
+### Palmer Penguins Classificaion [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://palmer-penguins-classification.herokuapp.com/)
+
+### Stock Price Tracker [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-price-tracker-rvi.herokuapp.com/)
