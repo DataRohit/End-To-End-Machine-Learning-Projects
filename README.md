@@ -4,12 +4,12 @@
 
 ---
 
-### Iris Flower Classification [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datarohit/iris-web-app/app.py)
+### Iris Flower Classification [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datarohit-webapps/iris-flower-classifier/app.py)
 
 ### Movie Recommender [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://movie-recommender-rvi.herokuapp.com/)
 
 ### Palmer Penguins Classificaion [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://palmer-penguins-classification.herokuapp.com/)
 
-### Stock Price Tracker [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-price-tracker-rvi.herokuapp.com/)
+### Stock Price Tracker [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datarohit-webapps/palmer-penguins-classifier/app.py)
 
-### Basketball Players Stats Explorer [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datarohit/basketball-players-stats-explorer/app.py)
+### Basketball Players Stats Explorer [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datarohit-webapps/basketball-players-stats-explorer/app.py)
