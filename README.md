@@ -11,3 +11,5 @@
 ### Palmer Penguins Classificaion [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://palmer-penguins-classification.herokuapp.com/)
 
 ### Stock Price Tracker [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://stock-price-tracker-rvi.herokuapp.com/)
+
+### Basketball Players Stats Explorer [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datarohit/basketball-players-stats-explorer/app.py)
