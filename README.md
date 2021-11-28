@@ -13,3 +13,5 @@
 ### Stock Price Tracker [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datarohit-webapps/palmer-penguins-classifier/app.py)
 
 ### Basketball Players Stats Explorer [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/datarohit-webapps/basketball-players-stats-explorer/app.py)
+
+### Bioinformatics Solubility Predictor [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bioinformatics-app-rvi.herokuapp.com/)
