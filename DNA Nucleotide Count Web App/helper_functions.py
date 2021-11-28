@@ -1,8 +1,8 @@
 def DNA_nucleotide_count(seq):
   d = dict([
-            ('A',seq.count('A')),
-            ('T',seq.count('T')),
-            ('G',seq.count('G')),
-            ('C',seq.count('C'))
+            ('A',seq.count('a')),
+            ('T',seq.count('t')),
+            ('G',seq.count('g')),
+            ('C',seq.count('c'))
             ])
   return d

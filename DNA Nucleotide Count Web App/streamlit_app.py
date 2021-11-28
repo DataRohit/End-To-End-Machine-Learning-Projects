@@ -31,11 +31,12 @@ st.sidebar.header('Enter DNA sequence')
 
 # Sample DNA Squence
 sequence_input = ">DNA Query 2\nGAACACGTGGAGGCAAACAGGAAGGTGAAGAAGAACTTATCCTATCAGGACGGAAGGTCCTGTGCTCGGG\nATCTTCCAGACGTCGCGACTCTAAATTGCCCCCTCTGAGGTCAAGGAACACAAGATGGTTTTGGAAATGC\nTGAACCCGATACATTATAACATCACCAGCATCGTGCCTGAAGCCATGCCTGCTGCCACCATGCCAGTCCT"
+sequence_input = sequence_input
 
 sequence = st.sidebar.text_area("Sequence input", sequence_input, height=250)
 sequence = sequence.splitlines()
 sequence = sequence[1:] # Skips the sequence name (first line)
-sequence = ''.join(sequence) # Concatenates list to string
+sequence = ''.join(sequence).lower() # Concatenates list to string
 
 ## Prints the input DNA sequence
 st.header('INPUT (DNA Query)')
@@ -53,7 +54,7 @@ X
 ### 2.Display DataFrame
 st.subheader('3. Display DataFrame')
 df = pd.DataFrame()
-df["nucleotide"] = X.keys()
+df["nucleotide"] = [i.upper() for i in X.keys()]
 df["name"] = ["Adenine", "Thymine", "Guanine", "Cytosine"]
 df["count"] = X.values()
 st.write(df)
