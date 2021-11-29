@@ -17,3 +17,5 @@
 ### Bioinformatics Solubility Predictor [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bioinformatics-app-rvi.herokuapp.com/)
 
 ### DNA Nucleotide Count Web App [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dna-web-app-rvi.herokuapp.com/)
+
+### Football Data Explorer Web App [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://football-data-explorer-rvi.herokuapp.com/)
