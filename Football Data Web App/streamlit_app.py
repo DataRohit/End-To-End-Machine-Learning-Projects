@@ -37,7 +37,7 @@ def filedownload(df):
 # * Sidebar Code
 ###############
 st.sidebar.header('User Input Features')
-selected_year = st.sidebar.selectbox('Year', list(reversed(range(1990,2023))))
+selected_year = st.sidebar.selectbox('Year', list(reversed(range(1990,2022))))
 
 # Getting All Player Stats using the custom function
 playerstats = load_data(selected_year)
